@@ -1,0 +1,13 @@
+### Diccionario de Datos
+
+# Informacion sobre que es un diccionario de datos y tiene un ejemplo en imagenes
+
+https://datos.gob.es/es/blog/que-es-un-diccionario-de-datos-y-por-que-es-importante
+
+
+### Separadores mas comunes de archivos .csv
+
+# The most common delimiters are: a comma (,), a semicolon (;), a tab (\t), a space ( ) and a pipe (|). 
+  But theoretically anything can be a delimiter as long as it is consistent. 
+
+https://lovespreadsheets.medium.com/what-are-csv-files-and-how-do-i-deal-with-them-825162ec7573#:~:text=A%20CSV%20file%20stores%20data,(%20)%20and%20a%20pipe%20(%7C).
